@@ -8,7 +8,7 @@ I'm a frontend developer who like to study React!
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [fahriakbaba@gmail.com](mailto:fahriakbaba@gmail.com)
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning React.js in depth
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Batman, tell everyone you see.
 
